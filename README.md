@@ -1,5 +1,6 @@
-## Hi, I'm Luiz Gomes! 💻 &nbsp; Programming: <br />
+## Hi, I'm Luiz Gomes! 
 
+💻 &nbsp; Programming: <br />
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
