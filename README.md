@@ -8,7 +8,7 @@
 
 ## Follow me, Let's talk, get some coffee.
 
-<p align="center">
+<p>
     <a href="https://www.linkedin.com/in/luiz-gomes-4b0b27105/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Luiz Gomes" height="20" width="20" />
     </a>
